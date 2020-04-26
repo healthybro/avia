@@ -1,0 +1,7 @@
+{
+  "name": "avia-commerce",
+  "description": "Fresh Avia Commerce admin",
+  "repository": "https://github.com/healthybro/avia",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg",
+  "keywords": ["Avia", "ecommerce", "elixir"]
+}
